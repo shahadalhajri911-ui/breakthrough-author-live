@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600">
+  <rect width="600" height="600" fill="#E9EEF5"/>
+  <circle cx="300" cy="230" r="100" fill="#CBD5E1"/>
+  <path d="M140 560 C140 420 460 420 460 560 Z" fill="#CBD5E1"/>
+  <text x="300" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#475569">Photo: Aila</text>
+</svg>

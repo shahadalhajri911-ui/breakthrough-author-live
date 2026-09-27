@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+  <rect width="1280" height="720" fill="#14283f"/>
+  <rect width="1280" height="720" fill="url(#g)" opacity="0.5"/>
+  <defs>
+    <radialGradient id="g" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#1E3A5F"/>
+      <stop offset="100%" stop-color="#0F1C2E"/>
+    </radialGradient>
+  </defs>
+  <circle cx="640" cy="330" r="72" fill="#C2790A"/>
+  <polygon points="618,292 618,368 690,330" fill="#FAF9F6"/>
+  <text x="640" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#FAF9F6" font-weight="700">WATCH: How to Write Your Bestseller in 4 Weeks</text>
+  <text x="640" y="512" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#C2790A">Replace this frame with your VSL video/poster</text>
+</svg>
